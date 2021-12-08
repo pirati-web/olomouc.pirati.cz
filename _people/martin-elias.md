@@ -17,7 +17,8 @@ profiles:
   facebook: https://www.facebook.com/Moriss.Orcein.Brown   
   twitter:        
   flickr:
-ordzask: 5       
+ordzask: 5   
+ordmis: 2    
 heroImg: banner-default.jpg
 published: true
 ---
