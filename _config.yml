@@ -62,8 +62,8 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/piratiOlomoucko/
-  profilePageName: Piráti - Olomoucký kraj
+  profilePage: https://www.facebook.com/piratiOlomouc
+  profilePageName: Piráti - Olomouc
   #appId: 1526197851008996
 
 twitter:
@@ -80,7 +80,7 @@ flicker:
   #profilePage: https://www.flickr.com/photos/pirati/
 
 forum:
-  page: https://forum.pirati.cz/olomoucky-kraj-f276/
+  page: https://forum.pirati.cz/viewforum.php?f=710
 
 github:
   url: https://github.com/pirati-web/olomoucky.pirati.cz/
