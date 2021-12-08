@@ -5,16 +5,16 @@ description: Členové a příznivci jsou to dělá Českou pirátskou stranu si
 keywords: lidé, členové, piráti, pirátky, příznivci, středočeši, středočeský kraj
 viewMode: grouped # or alltogether
 groups:
-  - name: Předsedové místních sdružení
+  - name: Předsednictvo místního sdružení
     category: predsedove-ms
-    sort: ordmis  
- - name: Místní zastupitelé
+    sort: ordmis 
+  - name: Místní zastupitelé
     category: zastupitele
     sort: ordzas
   - name: Krajští zastupitelé
     category: kraj-zastupitele
     sort: ordzask
- - name: Předsednictvo Olomouckého kraje
+  - name: Předsednictvo Olomouckého kraje
     category: predsednictvo
     sort: ordpre
   - name: Manažeři a koordinátoři Olomouckého kraje
@@ -31,4 +31,4 @@ groups:
  
 ---
 
-<a href="https://forum.pirati.cz/ks-olomoucky-kraj-g38.html">Seznam členů Krajského sdružení Olomouckého kraje na Fóru Pirátské strany</a>
+<a href="https://lide.pirati.cz/regiony/190/">Seznam členů místního sdružení Olomouc na webu lide.pirati.cz</a>
