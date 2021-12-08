@@ -5,6 +5,7 @@ fullname: MUDr. Martin Eliáš   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - olomouc
 - kraj-zastupitele
+- predsedove-ms
 position: Místopředseda místního sdružení
 img: people/elias_martin.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
