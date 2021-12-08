@@ -17,7 +17,8 @@ profiles:
   facebook:       
   twitter:        
   flickr: 
-ordpre: 3        
+ordpre: 3   
+ordmis: 2     
 heroImg: banner-default.jpg
 published: true
 ---
