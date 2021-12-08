@@ -5,6 +5,7 @@ fullname: Zdeněk Žák   # jméno s tituly etc.
 category:
 - predsednictvo                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - olomouc
+- predsedove-ms
 position: Místopředseda krajského sdružení
 img: people/zdenek-zak.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
