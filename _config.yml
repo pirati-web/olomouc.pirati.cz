@@ -5,7 +5,7 @@
 # technické nastavení
 #
 
-title: Piráti - Olomoucký kraj # To co je napsané na tabu ve kterém je stránka.
+title: Piráti - Olomouc # To co je napsané na tabu ve kterém je stránka.
 email: olomoucky@pirati.cz
 description: >-
   Česká pirátská strana - Olomouc
@@ -20,7 +20,7 @@ administrator:
   email: jan.suchanek@gmail.com, honza.dvorak@pirati.cz, jaromirhorky14@gmail.com
 
 organization:
-  name: Piráti - Olomoucký kraj
+  name: Piráti - Olomouc
   shortName: Piráti - Olomouc
   email: olomoucky@pirati.cz
   phone: +420 720 206 231
