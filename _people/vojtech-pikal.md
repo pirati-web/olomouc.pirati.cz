@@ -6,7 +6,7 @@ category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rp
 img: people/vojtech-pikal.jpg    # 165 x 220
 position: Člen republikového výboru
-description: místopředseda ČPS, člen republikového výboru	# kratký popis, max 160 znaků
+description: místopředseda Pirátů, člen republikového výboru	# kratký popis, max 160 znaků
 mail:
 - vojtech.pikal@pirati.cz
 mob:			  778 702 714
@@ -18,7 +18,6 @@ profiles:
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=vojt%C4%9Bch%20pikal
   psp: http://www.psp.cz/sqw/detail.sqw?id=6531
   report: https://forum.pirati.cz/poslanci-f884/reporty-poslance-vojtecha-pikala-t38965.html
-ordpos: 1
 heroImg: banner-default.jpg
 published: true
 ---
