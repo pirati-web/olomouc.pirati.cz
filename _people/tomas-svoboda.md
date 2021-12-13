@@ -4,9 +4,9 @@ name:     Tomáš Svoboda   # běžně používáné jméno
 fullname: Tomáš Svoboda   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
-position:
+position: Člen MS Olomouc
 img: people/tomas-svoboda.jpg   # 165 x 220
-description: Člen KS Olomouckého kraje           # kratký popis, max 160 znaků
+description: Člen MS Olomouc          # kratký popis, max 160 znaků
 mail: tomas.svoboda@pirati.cz
 mob: 733 252 652
 profiles:
