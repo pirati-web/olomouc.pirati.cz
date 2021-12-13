@@ -6,7 +6,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
 position:
 img: people/knapek_jakub.jpg             # 165 x 220
-description: Člen KS Olomouckého kraje, zastupitel v Olomouci                # kratký popis, max 160 znaků
+description: zastupitel v Olomouci                # kratký popis, max 160 znaků
 mail:
 - jakub.knapek@pirati.cz
 mob:         
