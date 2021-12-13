@@ -4,9 +4,9 @@ name:     Antonín Štěpán   # běžně používáné jméno
 fullname: Antonín Štěpán   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 -
-position: Člen KS Olomouckého kraje
+position: Člen MS Olomouc
 img: people/antonin-stepan.jpg   # 165 x 220
-description: Člen KS Olomouckého kraje           # kratký popis, max 160 znaků
+description: Člen MS Olomouc          # kratký popis, max 160 znaků
 mail: antonin.stepan@pirati.cz
 mob: 733 147 625
 profiles:
