@@ -4,10 +4,10 @@ name:     Marika Řehová     # běžně používané jméno
 fullname: Marika Řehová   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
-position: 
+position: Člen MS Olomouc
 img: people/marika-rehova.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Členka KS Olomouckého kraje              # kratký popis, max 160 znaků
+description: Člen MS Olomouc             # kratký popis, max 160 znaků
 mail: 
 mob: 
 profiles:
