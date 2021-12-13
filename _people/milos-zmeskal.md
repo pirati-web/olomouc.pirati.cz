@@ -4,9 +4,9 @@ name:     Miloš Zmeškal      		# běžně používáné jméno
 fullname: Miloš Zmeškal  		# jméno s tituly etc.
 category:              		# kategorie: rp, praha, vary, hradec, jmk, senat
 - 
-position: Člen KS Olomouckého kraje
+position: Člen MS Olomouc
 img: people/milos-zmeskal.jpg           # 165 x 220
-description: Člen KS Olomouckého kraje # kratký popis, max 160 znaků
+description: Člen MS Olomouc # kratký popis, max 160 znaků
 mail:
 - milos.zmeskal@pirati.cz
 mob: 770 113 650
