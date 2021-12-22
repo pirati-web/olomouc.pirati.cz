@@ -21,7 +21,7 @@ ordzas: 4
 heroImg: banner-default.jpg
 published: true
 ---
-Mgr. Hynek Melichar, Ph.D. (* 29. května 1982) je lídrem kandidátky do komunálních voleb 2018 v Olomouci.
+Mgr. Hynek Melichar, Ph.D. (* 29. května 1982) je zastupitel v Olomouci.
 
 Po maturitě na Klasickém gymnasiu v Brně vystudoval magisterský obor politologie a evropská studia na Filozofické fakultě Univerzity Palackého v Olomouci, kde následně pokračoval v doktorském studijním programu. Ten úspěšně ukončil získáním titulu Ph.D. V roce 2006 absolvoval stáž na Odboru bezpečnostní politiky MZV ČR. Při studiu v letech 2002-2009 podnikal jako OSVČ v oblasti překladatelství a tlumočnictví (anglický jazyk). Od roku 2010 je zaměstnán nejprve jako asistent, nyní jako odborný asistent, na Katedře politologie a evropských studií FF UP.
 
