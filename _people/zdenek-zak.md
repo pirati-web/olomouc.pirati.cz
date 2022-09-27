@@ -8,7 +8,7 @@ category:
 - predsedove-ms
 - zastupitele
 position: Místopředseda krajského sdružení
-img: people/zak_zdenek.jpg             # 165 x 220
+img: people/zakz.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: olomoucký zastupitel2. místopředseda krajského sdružení , 1. místopředseda místního sdružení Olomouc                # kratký popis, max 160 znaků
 mail:
