@@ -3,10 +3,9 @@ uid: jakub.knapek
 name:     Jakub Knápek          # běžně používáné jméno
 fullname: Mgr. Jakub Knápek   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
-- zastupitele
 position:
 img: people/knapek_jakub.jpg             # 165 x 220
-description: zastupitel v Olomouci                # kratký popis, max 160 znaků
+description: učitel                # kratký popis, max 160 znaků
 mail:
 - jakub.knapek@pirati.cz
 mob:         
@@ -14,8 +13,7 @@ profiles:
   github:
   facebook:       
   twitter:        
-  flickr:
-ordzas: 6       
+  flickr:     
 heroImg: banner-default.jpg
 published: true
 ---
