@@ -20,12 +20,12 @@ profiles:
   facebook:       
   twitter:        
   flickr:       
-ordzas: 5
+ordzas: 1
 ordpre: 1
 heroImg: banner-default.jpg
 published: true
 ---
-**Mgr. Viktor Tichák, Ph.D.** je členem Pirátů od r. 2018. Narodil se v Olomouci, žije v Olomouci a Ostravě. 
+**Mgr. Viktor Tichák, Ph.D.** je členem Pirátů od r. 2018. Narodil se v Olomouci, žije v Olomouci. 
 
 Je členem MS Olomouc a hostujícím členem MS Ostrava, předsedou krajského sdružení Olomouckého kraje, zastupitelem statutárního města Olomouce, předsedou Finančního výboru Zastupitelstva města Olomouce a členem Finančního výboru Zastupitelstva Olomouckého kraje. Mezi jeho politické zájmy patří především finance, dotační politika, řízení a kontroling příspěvkových organizací, transparence, kultura, výchova a vzdělávání.
 
