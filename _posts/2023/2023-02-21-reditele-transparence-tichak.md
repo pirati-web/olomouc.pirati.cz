@@ -5,7 +5,7 @@ title: "Piráti se zasadili o transparentní postup v potvrzování ředitelů/�
 date: 2023-02-21
 tags: olomouc
 author: Martina ježková
-image: articles/2023/viktor.png  #751x422 pixelu
+image: articles/2023/viktor.jpg  #751x422 pixelu
 ---
 *Olomouc 21.2.2023 -* **Výběrová řízení na ředitele/ředitelky základních a mateřských škol v Olomouci se budou nově konat každých šest let. Výběr bude transparentnější a bude ho mít na starost odborná a méně politická komise, která obsáhne mnohem více názorů. Doposud o pokračování stávajících ředitelů/ředitelek rozhodoval tzv. hodnoticí pohovor za zavřenými dveřmi.** 
 
