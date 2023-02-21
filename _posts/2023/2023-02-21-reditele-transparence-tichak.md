@@ -7,7 +7,7 @@ tags: olomouc
 author: Martina ježková
 image: articles/2023/viktor.png  #751x422 pixelu
 ---
-*Olomouc 21.2.2023 -* **Výběrová řízení na ředitele*ředitelky základních a mateřských škol v Olomouci se budou nově konat každých šest let. Výběr bude transparentnější a bude ho mít na starost odborná a méně politická komise, která obsáhne mnohem více názorů. Doposud o pokračování stávajících ředitelů*ředitelek rozhodoval tzv. hodnoticí pohovor za zavřenými dveřmi.** 
+*Olomouc 21.2.2023 -* **Výběrová řízení na ředitele/ředitelky základních a mateřských škol v Olomouci se budou nově konat každých šest let. Výběr bude transparentnější a bude ho mít na starost odborná a méně politická komise, která obsáhne mnohem více názorů. Doposud o pokračování stávajících ředitelů/ředitelek rozhodoval tzv. hodnoticí pohovor za zavřenými dveřmi.** 
 
 *„Doposud to fungovalo tak, že pokud řediteli/ředitelce končilo šestileté funkční období, čekal ho tzv. hodnoticí pohovor, kde se probralo jeho stávající působení. Komise následně rozhodla, zda bude ve funkci pokračovat či nikoliv. Bylo to však z větší části politické rozhodnutí a skutečnost, jak si škola vede, jakou má vizi do budoucna a jak prosperuje měla spíš marginální roli,“* říká členka školské komise za Piráty **Radka Hájková Svobodová.**
 
