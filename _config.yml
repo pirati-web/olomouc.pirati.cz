@@ -14,7 +14,7 @@ keywords: krajské sdružení, olomoucký, piráti, česká pirátská strana, p
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://olomoucky.pirati.cz" # the base hostname & protocol for your site
 
-mediaStorage: olomoucky
+mediaStorage: olomouc
 
 administrator:
   email: jan.suchanek@gmail.com, honza.dvorak@pirati.cz, jaromirhorky14@gmail.com
