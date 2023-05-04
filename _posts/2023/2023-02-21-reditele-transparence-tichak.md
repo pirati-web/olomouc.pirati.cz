@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "tisková zpráva: Piráti se zasadili o transparentní postup v potvrzování ředitelů/ředitelek olomouckých základních a mateřských škol v jejich funkci"
+title: "Piráti se zasadili o transparentní postup v potvrzování ředitelů/ředitelek olomouckých základních a mateřských škol v jejich funkci"
 date: 2023-02-21
 tags: olomouc
 author: Martina Ježková
